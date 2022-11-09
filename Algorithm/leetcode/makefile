@@ -13,6 +13,12 @@
 209: 209.cpp
 	g++ -ggdb -Wall -o ./bin/209 209.cpp
 
+59: 59.cpp
+	g++ -ggdb -Wall -o ./bin/59 59.cpp
+
+203: 203.cpp
+	g++ -ggdb -Wall -o ./bin/203 203.cpp
+
 review704: review704.cpp
 	g++ -ggdb -Wall -o ./bin/review704 review704.cpp
 
